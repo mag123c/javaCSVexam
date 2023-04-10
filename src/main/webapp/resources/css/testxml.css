@@ -1,0 +1,14 @@
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css");
+
+* {
+	font-family: Pretendard;
+}
+
+table, td{
+	border : solid black 1px;
+}
+thead{
+	border-bottom : solid black 3px;
+}
+
+	
